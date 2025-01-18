@@ -1,0 +1,3 @@
+# Uncommon CSS Specificity Bug
+
+This repository demonstrates an uncommon bug related to CSS specificity and inheritance.  The bug manifests as unexpected rendering behavior, where elements are styled incorrectly due to unexpected selector matches and inheritance issues. The solution involves a careful review of CSS specificity rules and potentially restructuring selectors for clarity and predictability.
