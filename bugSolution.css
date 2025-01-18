@@ -1,0 +1,1 @@
+The issue was resolved by restructuring the CSS selectors to ensure that the styles were applied as intended. This involved understanding and applying CSS specificity rules more precisely, ensuring that the intended styles had higher specificity than the conflicting styles.  Selectors were refined to avoid overlapping and unnecessary inheritance.
